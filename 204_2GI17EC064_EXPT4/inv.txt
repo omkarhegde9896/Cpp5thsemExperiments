@@ -1,0 +1,6 @@
+Asset no=1
+Asset name=mobile
+Asset price=20000.00
+Asset no=2
+Asset name=laptop
+Asset price=70000.00
